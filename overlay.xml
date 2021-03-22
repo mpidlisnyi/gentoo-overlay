@@ -1,0 +1,13 @@
+<repositories version="1.0">
+	<repo quality="experimental" status="official">
+		<name>cryptspirit</name>
+		<description>CryptSpirit Overlay</description>
+		<homepage>https://github.com/mpidlisnyi/gentoo-overlay</homepage>
+		<owner>
+			<email>maksim@nightbook.info</email>
+			<name>CryptSpirit</name>
+		</owner>
+		<source type="git">git://github.com/mpidlisnyi/gentoo-overlay.git</source>
+		<feed>https://github.com/mpidlisnyi/gentoo-overlay/commits</feed>
+	</repo>
+</repositories>
